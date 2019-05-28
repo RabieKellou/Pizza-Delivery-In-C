@@ -1,0 +1,12 @@
+1,Pizza Margherita,19
+2,Pizza Reine,20
+3,pizza Napoletana,21
+4,Pizza Marinara,22	
+5,Pizza Sicilienne,23
+6,Pizza Quatresaisons,24 
+7,Pizza Capricciosa,25
+8,notPizza,11.990000
+9,PizzaHELL,11.450000
+10,Pepper Pizza,9.990000
+11,Pepper,13.000000
+12,LILA,1.000000
