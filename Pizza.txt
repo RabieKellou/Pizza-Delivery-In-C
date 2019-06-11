@@ -7,6 +7,3 @@
 7,Pizza Capricciosa,25
 8,notPizza,11.990000
 9,PizzaHELL,11.450000
-10,Pepper Pizza,9.990000
-11,Pepper,13.000000
-12,LILA,1.000000
